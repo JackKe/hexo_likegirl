@@ -3,7 +3,7 @@
 > This BeanTech theme created by [YuHsuan](http://beantech.org) modified from the original Porter [Kaijun](http://kaijun.rocks/hexo-theme-huxblog/)
 
 # [Live Demo](http://beantech.org)
-![BeanTech Desktop](http://beantech.org/img/beantech-desktop.png)
+![BeanTech Desktop](http://likegirl.com/img/beantech-desktop.png)
 
 # Usage
 I publish the whole project for your convenience, so you can just follow the instruction down below, then you can easily customiz your own blog!
